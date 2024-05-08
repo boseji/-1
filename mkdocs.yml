@@ -104,8 +104,8 @@ plugins:
       css_style:
         #width: "50%"
         #height: "25vw"
-        width: "560px"
-        height: "320px"
+        width: "560"
+        height: "320"
 
 markdown_extensions:
   - pymdownx.highlight:
