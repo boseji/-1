@@ -18,7 +18,7 @@ site_dir: public
 theme:
   name: material
   features:
-    - navigation.tabs
+    # - navigation.tabs
     - navigation.top
     # - navigation.instant
     - navigation.tracking
@@ -27,8 +27,8 @@ theme:
     - search.highlight
     - search.share
     - content.code.copy
-    - content.action.edit
-    - content.action.view
+    # - content.action.edit
+    # - content.action.view
     - toc.follow
     # - navigation.sections
     # - navigation.expand
