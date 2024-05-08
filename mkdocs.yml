@@ -32,7 +32,7 @@ theme:
     - toc.follow
     # - navigation.sections
     # - navigation.expand
-    # - toc.integrate
+    - toc.integrate
     # - content.tabs.link
     # - content.code.annotation
 
