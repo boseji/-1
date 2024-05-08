@@ -88,7 +88,11 @@ plugins:
   - minify:
       minify_html: true
   - no-sitemap
-  - mkdocs-video
+  - mkdocs-video:
+      video_controls: True
+      css_style:
+        width: "50%"
+        height: "25vw"
 
 markdown_extensions:
   - pymdownx.highlight:
