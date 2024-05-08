@@ -7,9 +7,6 @@ copyright: >-
   <a href="https://github.com/boseji" targe="_blank" rel="noopener">Abhijit Bose (aka. boseji)</a>. 
   All rights reserved. Unless otherwise specified, content licensed under
   <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" targe="_blank" rel="noopener"><code style="background-color: indigo;color: white;font-size: +1.3em;">SPDX: CC-BY-NC-ND-4.0</code></a>
-repo_name: boseji/scratch-docs
-repo_url: https://github.com/boseji/scratch-docs
-edit_uri: blob/main/docs/
 
 # Site Configuration
 docs_dir: act/docs
