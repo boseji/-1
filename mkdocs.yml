@@ -102,7 +102,7 @@ plugins:
   - mkdocs-video:
       video_controls: True
       css_style:
-        width: "50%"
+        width: "60vw"
         height: "30vw"
         # width: "560"
         # height: "320"
